@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.banner {
+    background-color: #3498db;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.services {
+    background-color: #f2f2f2;
+    padding: 50px 0;
+}
+
+.slider {
+    padding: 50px 0;
+}
+
+.faqs {
+    background-color: #eaeaea;
+    padding: 50px 0;
+}
+
+.faq-item {
+    margin-bottom: 20px;
+}
